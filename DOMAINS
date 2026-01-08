@@ -1,3 +1,8 @@
 cloudflare.com
 zscaler.com
 *.zcsaler.com
+www.zscaler.com
+www.zscaler.com/*
+zscaler.com/*
+www.cloudflare.com/*
+*.cloudflare.com
